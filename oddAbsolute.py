@@ -9,7 +9,7 @@ def calculateAbsolute():
             absolute *= 2
         print('Result: ' + str(absolute))
     except:
-        print('Please enter a number')
+        print('Please enter a numbe')
     # end assignment
 
 ## If you want to test locally run > python payCalculator.py
